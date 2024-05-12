@@ -31,4 +31,4 @@ public class TestTrailTest {
         Assert.assertTrue(7 > 3);
         System.out.println("TestNG: testNumberTestNGTests4: Passed !");
     }
-}
+} 
