@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Forti helper",
+  "version": "1.0.1",
+  "description": "Automatically closes the new tabs after FortiVPN turned on",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
